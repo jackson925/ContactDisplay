@@ -1,0 +1,47 @@
+﻿@model PagedList.IPagedList<ContactDisplayProject.Models.Contact>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+
+}
+@section Styles{
+    <link href="@Url.Content("~/Content/IndexStyle.css")" rel="stylesheet" type="text/css" />
+
+}
+
+
+<div class="container">
+    <div Id="tableDiv" class="form-horizontal">
+
+        <table Id="IndexTable" class="table table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        Contact List
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        @*
+                            Display every Contacts name as a td element
+                            Create a new link that displays "Details" and calls the "Details" action method,
+                            and passes two new objects string "name" and int "page"
+                        *@
+                        <td>@Html.DisplayFor(name => item.FirstName)</td>
+                        <td>@Html.ActionLink("Details", "Details", new { name = item.FirstName, page = ViewBag.Page })</td>
+                    </tr>
+                }
+
+            </tbody>
+
+        </table>
+    </div>
+    @*
+        This creates a pagitation capability
+    *@
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+</div>

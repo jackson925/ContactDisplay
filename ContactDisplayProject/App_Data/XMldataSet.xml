@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Contacts>
+  <Contact>
+      <FirstName>John</FirstName>
+      <LastName>Favers</LastName>
+      <Email>JJack@yodo.com</Email>
+      <MobilePhone>214-234-5342</MobilePhone>
+      <HomePhone>234-234-5466</HomePhone>
+      <BusinessPhone>453-423-4322</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>John thinks he is a great guitar player, but usually just "plucks". Despite his lack of skill at guitar, he doesn't quit working at it.</Note>
+  </Contact>
+  <Contact>
+      <FirstName>Terrance</FirstName>
+      <LastName>Joel</LastName>
+      <Email>TerryJ@yodo.com</Email>
+      <MobilePhone>214-234-5342</MobilePhone>
+      <HomePhone>234-765-5466</HomePhone>
+      <BusinessPhone>928-423-4322</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Terrance is pretty guy, very open-minded and positive.</Note>
+  </Contact>
+  <Contact>
+      <FirstName>Harry</FirstName>
+      <LastName>Tarris</LastName>
+      <Email>HarryT@foo.com</Email>
+      <MobilePhone>145-652-1681</MobilePhone>
+      <HomePhone>865-543-543</HomePhone>
+      <BusinessPhone>565-223-1454</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>"Harry T" as he is formally known amongst his friends, is truly a hard worker.</Note>
+  </Contact>
+  <Contact>
+      <FirstName>Guy</FirstName>
+      <LastName>Razith</LastName>
+      <Email>GuyR@Baz.com</Email>
+      <MobilePhone>542-489-2133</MobilePhone>
+      <HomePhone>653-546-2162</HomePhone>
+      <BusinessPhone>216-215-5641</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Guy is a extraordinary leader, who leads by example to the fullest.</Note>
+  </Contact>
+  <Contact>
+      <FirstName>Howard</FirstName>
+      <LastName>Elias</LastName>
+      <Email>HowardE@quirk.com</Email>
+      <MobilePhone>545-543-1235</MobilePhone>
+      <HomePhone>459-521-5123</HomePhone>
+      <BusinessPhone>929-365-6453</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Howard is a result driven professional, who always collaborates with those around him.</Note>
+  </Contact>
+  <Contact>
+      <FirstName>Deon</FirstName>
+      <LastName>Prichard</LastName>
+      <Email>JimmyP@howso.com</Email>
+      <MobilePhone>745-456-2346</MobilePhone>
+      <HomePhone>234-264-2546</HomePhone>
+      <BusinessPhone>928-946-3245</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Deon is an inquisitive and quick learner, always challenging his limitations.</Note>
+  </Contact>
+  <Contact>
+      <FirstName>Katlynn</FirstName>
+      <LastName>Knowles</LastName>
+      <Email>LKnowles@Lorem.com</Email>
+      <MobilePhone>123-045-6874</MobilePhone>
+      <HomePhone>654-213-2313</HomePhone>
+    <BusinessPhone>753-216-8712</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Knowles is a go getter, making the objective her main priority and often does anything possible to find a solution.</Note>
+  </Contact>
+  <Contact>
+      <FirstName>Jose</FirstName>
+      <LastName>Castro</LastName>
+      <Email>Decastoit10@foozbaz.com</Email>
+      <MobilePhone>745-456-2346</MobilePhone>
+      <HomePhone>234-264-2546</HomePhone>
+      <BusinessPhone>928-946-3245</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Jose is a customer oriented professional, making sure to accurately articulate client pain-points to engieering teams.</Note>
+  </Contact>
+  <Contact>
+      <FirstName>Zachary</FirstName>
+      <LastName>Johanneson</LastName>
+      <Email>ZachJo@quirk.com</Email>
+      <MobilePhone>745-456-2346</MobilePhone>
+      <HomePhone>234-264-2546</HomePhone>
+      <BusinessPhone>928-946-3245</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Johanneson is a very approachable and knowledgable member of the team, who doesn't mind spending some extra time mentoring more junior members.</Note>
+  </Contact>
+  <Contact>
+      <FirstName>Sarah</FirstName>
+      <LastName>Johnson</LastName>
+      <Email>Johnson95@bazbaz.com</Email>
+      <MobilePhone>745-463-2524</MobilePhone>
+      <HomePhone>234-264-6353</HomePhone>
+      <BusinessPhone>928-946-3845</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Sarah has the uncanny ability to relate complex concepts to simple, comprehensible analogies, which is often needed.</Note>
+  </Contact>
+  <Contact>
+      <FirstName>Ian</FirstName>
+      <LastName>Warner</LastName>
+      <Email>IanW@this.name.com</Email>
+      <MobilePhone>745-785-4531</MobilePhone>
+      <HomePhone>451-264-2546</HomePhone>
+      <BusinessPhone>432-946-3245</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Ian is a very pleasant individual, who often engages in constructive out of office activies with his team.</Note>
+  </Contact>
+  <Contact>
+      <FirstName>Jordan</FirstName>
+      <LastName>Saggit</LastName>
+      <Email>jSaggit@KQuirky.com</Email>
+      <MobilePhone>345-456-2346</MobilePhone>
+      <HomePhone>765-264-2546</HomePhone>
+      <BusinessPhone>234-976-3245</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Jordan is terrible at making up fake last names, and so relies on his friends to generate other terrible last names for him.</Note>
+</Contact>
+  <Contact>
+    <FirstName>Daphne</FirstName>
+    <LastName>Costa</LastName>
+    <Email>Dcosta@KQuirky.com</Email>
+    <MobilePhone>345-346-2346</MobilePhone>
+    <HomePhone>982-264-2546</HomePhone>
+    <BusinessPhone>123-976-3245</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>No notes.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Joe</FirstName>
+    <LastName>Georie</LastName>
+    <Email>joeG@KQuirky.com</Email>
+    <MobilePhone>634-456-2346</MobilePhone>
+    <HomePhone>294-264-2546</HomePhone>
+    <BusinessPhone>193-976-3245</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note> Hard worker.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Josh</FirstName>
+    <LastName>Hesensvelins</LastName>
+    <Email>Whatsmylastname@KQuirky.com</Email>
+    <MobilePhone>482-456-2346</MobilePhone>
+    <HomePhone>395-264-2546</HomePhone>
+    <BusinessPhone>382-976-3245</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Nobody can pronounce his last name.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Stephanie</FirstName>
+    <LastName>Valintine</LastName>
+    <Email>SVal@KQuirky.com</Email>
+    <MobilePhone>565-456-2346</MobilePhone>
+    <HomePhone>652-264-2546</HomePhone>
+    <BusinessPhone>121-976-3245</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Valintine is a team player.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Christian</FirstName>
+    <LastName>Zubada</LastName>
+    <Email>ChrisZ@KQuirky.com</Email>
+    <MobilePhone>452-456-2346</MobilePhone>
+    <HomePhone>323-264-2546</HomePhone>
+    <BusinessPhone>130-976-3245</BusinessPhone>
+    <Address> 03944 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Christian is a really awesome dog sitter.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Allen</FirstName>
+    <LastName>Turing</LastName>
+    <Email>Turing@KQuirky.com</Email>
+    <MobilePhone>712-456-2346</MobilePhone>
+    <HomePhone>465-264-2546</HomePhone>
+    <BusinessPhone>132-976-3245</BusinessPhone>
+    <Address> 22544 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Allen enjoys riveting conversations regarding finite state machines, and automata.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Billy</FirstName>
+    <LastName>Holden</LastName>
+    <Email>BillyH@fizzbuzz.com</Email>
+    <MobilePhone>342-456-2346</MobilePhone>
+    <HomePhone>633-264-2546</HomePhone>
+    <BusinessPhone>234-976-3245</BusinessPhone>
+    <Address> 23554 Parker Ln. San Jose, Ca 93029</Address>
+    <Note> Billy is a detail, and customer oriented individual.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Steve</FirstName>
+    <LastName>Jobs</LastName>
+    <Email>SJobs@KQuirky.com</Email>
+    <MobilePhone>644-456-2346</MobilePhone>
+    <HomePhone>734-264-2546</HomePhone>
+    <BusinessPhone>923-976-3245</BusinessPhone>
+    <Address> 13344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Proud Zune owner since 2001.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Bob</FirstName>
+    <LastName>Richardson</LastName>
+    <Email>BobR@KQuirky.com</Email>
+    <MobilePhone>123-456-2346</MobilePhone>
+    <HomePhone>734-264-2546</HomePhone>
+    <BusinessPhone>923-976-3245</BusinessPhone>
+    <Address> 35344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Bob is an excellent communicator.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Randy</FirstName>
+    <LastName>White</LastName>
+    <Email>WhiteR@KQuirky.com</Email>
+    <MobilePhone>644-456-2346</MobilePhone>
+    <HomePhone>734-264-2546</HomePhone>
+    <BusinessPhone>923-976-3245</BusinessPhone>
+    <Address> 12344 Parker Ln. San Jose, Ca 93029</Address>
+    <Note> Randy, is really great at golf.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Scott</FirstName>
+    <LastName>Prug</LastName>
+    <Email>ScottPrug@KQuirky.com</Email>
+    <MobilePhone>644-456-2346</MobilePhone>
+    <HomePhone>734-264-2546</HomePhone>
+    <BusinessPhone>923-976-3245</BusinessPhone>
+    <Address> 23354 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Scott is also really good at golf.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Mat</FirstName>
+    <LastName>Perterson</LastName>
+    <Email>MattyP@KQuirky.com</Email>
+    <MobilePhone>644-456-2346</MobilePhone>
+    <HomePhone>734-264-2546</HomePhone>
+    <BusinessPhone>923-976-3245</BusinessPhone>
+    <Address> 45354 Parker Ln. San Jose, Ca 93029</Address>
+    <Note> Mat helped me with the generation of last names.</Note>
+  </Contact>
+  <Contact>
+    <FirstName>Singh</FirstName>
+    <LastName>Rajit</LastName>
+    <Email>SinghIt@KQuirky.com</Email>
+    <MobilePhone>644-456-2346</MobilePhone>
+    <HomePhone>734-264-2546</HomePhone>
+    <BusinessPhone>923-976-3245</BusinessPhone>
+    <Address> 12354 Parker Ln. San Jose, Ca 93029</Address>
+    <Note>Singh is a very helpful team member.</Note>
+  </Contact>
+</Contacts>

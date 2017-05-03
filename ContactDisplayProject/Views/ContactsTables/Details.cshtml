@@ -1,0 +1,44 @@
+﻿@model ContactDisplayProject.Models.Contact
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<h1>Contact Details</h1>
+@*    
+    This link displays the text "Go Back To List", calls the "Index" action method
+    and pass the int "page" to the index method
+*@
+ @Html.ActionLink("Go Back To List", "Index", new { page = Model.Page })
+
+<table>
+   <tr>
+    <td> Name: </td>
+    <td> @Model.FirstName @Model.LastName</td>
+    
+   </tr>
+   <tr>
+    <td> Email: </td>
+    <td> @Model.Email </td>
+   </tr>
+    <tr>
+        <td> Home Phone: </td>
+        <td> @Model.HomePhone </td>
+    </tr>
+    <tr>
+        <td> Business Phone:</td>
+        <td> @Model.BusinessPhone </td>
+    </tr>
+     <tr>
+         <td> Mobile Phone: </td>
+         <td> @Model.MobilePhone </td>
+     </tr>    
+    <tr>
+        <td> Address: </td>
+        <td> @Model.Address</td>
+    </tr>
+    <tr>
+        <td> Contact Notes: </td>
+        <td> @Model.Note</td>    
+    </tr>
+</table>
